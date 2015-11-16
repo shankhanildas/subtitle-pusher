@@ -1,0 +1,28 @@
+{
+  "name": "subtitle-pusher",
+  "version": "1.0.0",
+  "description": "copy subtitle files in movie directory",
+  "main": "src/copySub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankhanildas/subtitle-pusher.git"
+  },
+  "keywords": [
+    "subtitle",
+    "copy"
+  ],
+  "author": "Shankhanil Das <shankhanildas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shankhanildas/subtitle-pusher/issues"
+  },
+  "homepage": "https://github.com/shankhanildas/subtitle-pusher#readme",
+  "dependencies": {
+    "adm-zip": "0.4.7",
+    "commander": "2.9.0",
+    "findit": "2.0.0"
+  }
+}
